@@ -45,4 +45,4 @@ Deep Learning · Large Language Models · NLP · MLOps · Reinforcement Learning
 
 ### Links
 
-[Portfolio](https://aakashaaananda.github.io) · [LinkedIn](https://linkedin.com/in/aakashaaananda) · [Medium](https://medium.com/@samproids) · [HuggingFace](https://huggingface.co/aakashaaananda) · [aakashaanand@protonmail.com](mailto:aakashaanand@protonmail.com)
+[Portfolio](https://aakashaaananda.github.io) · [LinkedIn](https://linkedin.com/in/aakashaaananda) · [Medium](https://medium.com/@samproids) · [aakashaanand@protonmail.com](mailto:aakashaanand@protonmail.com)
