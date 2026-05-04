@@ -1,8 +1,8 @@
 # Akash Anand
 
-AI & Machine Learning Engineer · Bengaluru, India
+Data Science | AI & Machine Learning Engineer · Bengaluru, India
 
-B.Tech in Artificial Intelligence & Machine Learning at M. S. Ramaiah University of Applied Sciences (2022–2026) · CGPA 8.9/10
+[Get to know me better](https://aakashaaananda.github.io)
 
 Currently building an autonomous multi-agent enterprise customer support system with LangGraph, CrewAI, and MCP.
 
